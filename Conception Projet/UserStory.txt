@@ -1,0 +1,7 @@
+As a Team Member, i want to get access to all the tasks assigned to me so that i can change its status and update the loggable hours for each assignment.
+
+
+
+As a Team Leader, i want to get access to all the tasks of my team members so that i can do the CRUD operations on them and track the working progress of a project.
+AS a Team Leader, i want to create all my team members accounts for a single project.
+AS a Team Leader, i want to create a new project.
